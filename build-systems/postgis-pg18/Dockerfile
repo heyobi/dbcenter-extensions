@@ -12,6 +12,10 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y --no-install-recommends \
       wget ca-certificates gnupg2 lsb-release \
       build-essential \
+      # PostGIS's configure finds json-c through pkg-config. Without it the
+      # build quietly comes out with no GeoJSON support and ST_GeomFromGeoJSON
+      # fails at run time with "You need JSON-C".
+      pkg-config \
       libxml2-dev libjson-c-dev libprotobuf-c-dev protobuf-c-compiler \
       libgeos-dev libproj-dev \
       patchelf \

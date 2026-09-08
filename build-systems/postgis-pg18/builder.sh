@@ -34,6 +34,26 @@ cd "postgis-${GIS_VER}"
 ./configure --with-pgconfig="/usr/lib/postgresql/${PG_VER}/bin/pg_config" \
             --without-raster > /configure.log 2>&1 \
     || { echo "!! configure failed"; tail -30 /configure.log; exit 1; }
+
+# configure does not fail when an optional dependency is missing; it disables the
+# feature and carries on. That is how a build shipped without GeoJSON support and
+# only announced it at run time, from inside a user's query. Check for what the
+# geo API actually calls.
+# The macro names differ: json-c is a HAVE_, while PROJ and GEOS record their
+# version instead. Checking for the wrong name fails a build that is fine.
+echo ">>> configured with:"
+check_macro() {
+    if grep -qE "^#define $1( |\t)" postgis_config.h 2>/dev/null; then
+        echo "    $2: $(grep -E "^#define $1( |\t)" postgis_config.h | head -1 | awk '{print $3}')"
+    else
+        echo "!! $2 is missing, so the functions that need it would fail at run time"
+        grep -iE "json|proj|geos" /configure.log | tail -20
+        exit 1
+    fi
+}
+check_macro HAVE_LIBJSON          "GeoJSON (json-c)"
+check_macro POSTGIS_PROJ_VERSION  "PROJ"
+check_macro POSTGIS_GEOS_VERSION  "GEOS"
 make -j"${JOBS}" > /make.log 2>&1 \
     || { echo "!! make failed"; tail -40 /make.log; exit 1; }
 
