@@ -66,6 +66,15 @@ with what the host has loaded.
 
 `pg_duckdb-<version>-linux-amd64-pg<major>.tar.gz`, PostgreSQL 14 through 18.
 
+**The libraries are in `lib/pg_duckdb-libs/`, not in `lib/`.** Every archive here
+carries what its module links against, and they used to go straight into
+PostgreSQL's module directory - which all extensions share. pg_duckdb and
+PostGIS bundle twenty-six of the same sonames from different base images, so
+installing both left one of them with a library it was never linked against and
+the server refused to start. The module stays in `lib/` so `$libdir/pg_duckdb`
+finds it; its dependencies sit in `lib/pg_duckdb-libs/` with the module's
+RUNPATH pointing there.
+
 This is the one set of archives here that is not compiled by these build
 systems. The modules come from the pg_duckdb project's own release images
 (`pgduckdb/pgduckdb:<major>-v<version>`) and are repackaged the way everything
