@@ -42,8 +42,15 @@ if [ ! -f third_party/duckdb/build/release/src/libduckdb.so ]; then
     # each want several gigabytes, so the default of nproc+2 exhausts memory
     # before it exhausts the file list. CMAKE_BUILD_PARALLEL_LEVEL is the knob
     # `cmake --build` actually reads.
+    #
+    # DISABLE_UNITY splits DuckDB's unity translation units - single .cpp files
+    # amalgamating a whole directory - back into ordinary ones. Some of them,
+    # httplib above all, want more memory to compile than a modest machine has,
+    # and no amount of lowering the job count helps when a single compiler
+    # invocation is the thing that will not fit. More files, each of a sane size.
     CMAKE_BUILD_PARALLEL_LEVEL="${JOBS}" \
-        make duckdb > /duckdb.log 2>&1 \
+        make duckdb DUCKDB_CMAKE_VARS="-DCXX_EXTRA=-fvisibility=default -DBUILD_SHELL=0 -DBUILD_PYTHON=0 -DBUILD_UNITTESTS=0 -DDISABLE_UNITY=1" \
+        > /duckdb.log 2>&1 \
         || { echo "!! DuckDB build failed"; grep -B2 "error\|exhausted" /duckdb.log | tail -30; exit 1; }
 fi
 
