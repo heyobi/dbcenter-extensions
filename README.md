@@ -17,10 +17,17 @@ machine, is not.
 | pgsql-http | [github.com/pramsey/pgsql-http](https://github.com/pramsey/pgsql-http) | MIT |
 
 These are builds of other people's software. The copyright and licence of each
-belongs to its authors; this repository only carries binaries built from their
-released sources. `build-systems/` holds the Dockerfiles and scripts that
-produced them, so any build here can be reproduced - which is also how the GPL
-obligation that comes with redistributing PostGIS binaries is met.
+belongs to its authors; this repository only carries binaries.
+
+Provenance differs by platform, and it matters for the GPL obligation that comes
+with redistributing PostGIS:
+
+- **Linux** archives are compiled from upstream source by the scripts in
+  `build-systems/`, which fetch the release tarballs from the projects
+  themselves. Any of them can be reproduced by running the Dockerfile.
+- **Windows PostGIS** archives are repackaged from the official PostGIS Windows
+  bundles rather than compiled here; `build-systems/` only renames and restructures
+  them. Their source is the one PostGIS publishes alongside those bundles.
 
 ## Naming
 
