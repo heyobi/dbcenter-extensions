@@ -46,3 +46,18 @@ Every archive's SHA-256 is pinned in the engine's source, in
 does not match, so this host is not trusted: a tampered asset fails even if the
 account publishing it is compromised. `checksums.txt` on each release lists the
 same digests for convenience; it is not what the engine checks against.
+
+## Bundled dependencies
+
+Linux PostGIS archives carry the libraries PostGIS links against - GEOS, PROJ and
+their own dependencies - beside the modules, with an `$ORIGIN` RUNPATH so the
+loader finds them there. Without that the module fails to load on any machine
+that does not already have GEOS and PROJ installed, which is most of them.
+
+`libc`, `libm`, `libpthread`, `libgcc_s` and `libstdc++` are deliberately left to
+the host: they are ABI-sensitive, PostgreSQL has already loaded its own, and a
+second copy is how symbol conflicts happen.
+
+Raster support is left out of the PostgreSQL 18 build. It is what pulls in GDAL,
+whose dependency closure is both large and exactly the set most likely to collide
+with what the host has loaded.

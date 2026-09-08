@@ -13,7 +13,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
       wget ca-certificates gnupg2 lsb-release \
       build-essential \
       libxml2-dev libjson-c-dev libprotobuf-c-dev protobuf-c-compiler \
-      libgeos-dev libgdal-dev libproj-dev \
+      libgeos-dev libproj-dev \
+      patchelf \
  && rm -rf /var/lib/apt/lists/*
 
 RUN echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" \
