@@ -1,0 +1,1717 @@
+BUILD BAŞLADI: Sun Nov 30 20:28:42 UTC 2025
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 13
+   -> BAŞARILI: pgvector-0.5.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 14
+   -> BAŞARILI: pgvector-0.5.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 15
+   -> BAŞARILI: pgvector-0.5.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 16
+   -> BAŞARILI: pgvector-0.5.1-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 17
+   -> BAŞARILI: pgvector-0.5.1-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 13
+   -> BAŞARILI: pgvector-0.6.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 14
+   -> BAŞARILI: pgvector-0.6.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 15
+   -> BAŞARILI: pgvector-0.6.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 16
+   -> BAŞARILI: pgvector-0.6.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 17
+   -> BAŞARILI: pgvector-0.6.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 13
+   -> BAŞARILI: pgvector-0.7.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 14
+   -> BAŞARILI: pgvector-0.7.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 15
+   -> BAŞARILI: pgvector-0.7.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 16
+   -> BAŞARILI: pgvector-0.7.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 17
+   -> BAŞARILI: pgvector-0.7.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 13
+   -> BAŞARILI: pgvector-0.7.4-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 14
+   -> BAŞARILI: pgvector-0.7.4-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 15
+   -> BAŞARILI: pgvector-0.7.4-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 16
+   -> BAŞARILI: pgvector-0.7.4-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 17
+   -> BAŞARILI: pgvector-0.7.4-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 13
+   -> BAŞARILI: pgvector-0.8.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 14
+   -> BAŞARILI: pgvector-0.8.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 15
+   -> BAŞARILI: pgvector-0.8.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 16
+   -> BAŞARILI: pgvector-0.8.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 17
+   -> BAŞARILI: pgvector-0.8.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+BUILD BAŞLADI: Sun Nov 30 20:33:57 UTC 2025
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+BUILD BAŞLADI: Sun Nov 30 20:38:26 UTC 2025
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+BUILD BAŞLADI: Sun Nov 30 20:40:10 UTC 2025
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+BUILD BAŞLADI: Sun Nov 30 20:40:52 UTC 2025
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+BUILD BAŞLADI: Sun Nov 30 20:43:08 UTC 2025
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+BUILD BAŞLADI: Sun Nov 30 20:45:05 UTC 2025
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 13
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Muhtemelen versiyon uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Aranıyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+BUILD BAŞLADI: Sun Nov 30 20:49:18 UTC 2025
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 13
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 14
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 15
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 16
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 17
+BUILD BAŞLADI: Sun Nov 30 20:55:34 UTC 2025
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 13
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 16
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+--- BİTTİ ---
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 14
+BUILD BAŞLADI: Sun Nov 30 20:58:00 UTC 2025
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 15
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 13
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 14
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 16
+BUILD BAŞLADI: Sun Nov 30 21:00:53 UTC 2025
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 14
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 15
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [SETUP] Windows Headerları indiriliyor: PG 17
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 14
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 13
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 13
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 14
+BUILD BAŞLADI: Sun Nov 30 21:06:38 UTC 2025
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 15
+   [LINUX] pgvector-0.5.1-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg13.zip)
+   [LINUX] pgvector-0.5.1-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg14.zip)
+   [LINUX] pgvector-0.5.1-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg15.zip)
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 16
+   ! HATA: Cross-compile başarısız.
+--- BİTTİ ---
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg16.zip)
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg17.zip)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.5.1/pgvector_0.5.1_pg18.zip)
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg13.zip)
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg14.zip)
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg15.zip)
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg16.zip)
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg17.zip)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.6.0/pgvector_0.6.0_pg18.zip)
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg13.zip)
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg14.zip)
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg15.zip)
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg16.zip)
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg17.zip)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.0/pgvector_0.7.0_pg18.zip)
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 16
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg13.zip)
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg14.zip)
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg15.zip)
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 16
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg16.zip)
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg17.zip)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.7.4/pgvector_0.7.4_pg18.zip)
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg13.zip)
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg14.zip)
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 15
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg15.zip)
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 16
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg16.zip)
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz zaten var. (Atlanıyor)
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 17
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg17.zip)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: Windows binary (https://github.com/pgvector/pgvector/releases/download/v0.8.0/pgvector_0.8.0_pg18.zip)
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 15
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg16.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 14
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.5.1-linux-amd64-pg17.tar.gz mevcut.
+   [SETUP] Windows Headerları indiriliyor: PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 14
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.5.1 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.6.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.6.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+--- BİTTİ ---
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.7.4-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.7.4 -> PG 17
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg13.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 13
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg14.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 14
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg15.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 15
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg16.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 16
+   ! HATA: Cross-compile başarısız.
+   [LINUX] pgvector-0.8.0-linux-amd64-pg17.tar.gz mevcut.
+   [WIN-BUILD] Derleniyor (MinGW): pgvector 0.8.0 -> PG 17
+   ! HATA: Cross-compile başarısız.
+--- BİTTİ ---
+BUILD BAŞLADI: Mon Dec  1 16:29:21 UTC 2025
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 13
+   -> BAŞARILI: vector-0.5.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 14
+   -> BAŞARILI: vector-0.5.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 15
+   -> BAŞARILI: vector-0.5.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 15
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg15)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 16
+   -> BAŞARILI: vector-0.5.1-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 16
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg16)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 17
+   -> BAŞARILI: vector-0.5.1-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 17
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg17)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.5.1 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.5.1 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.5.1, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 13
+   -> BAŞARILI: vector-0.6.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 14
+   -> BAŞARILI: vector-0.6.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 15
+   -> BAŞARILI: vector-0.6.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 15
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg15)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 16
+   -> BAŞARILI: vector-0.6.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 16
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg16)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 17
+   -> BAŞARILI: vector-0.6.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 17
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg17)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.6.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.6.0 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.6.0, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 13
+   -> BAŞARILI: vector-0.7.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 14
+   -> BAŞARILI: vector-0.7.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 15
+   -> BAŞARILI: vector-0.7.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 15
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg15)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 16
+   -> BAŞARILI: vector-0.7.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 16
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg16)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 17
+   -> BAŞARILI: vector-0.7.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 17
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg17)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.0 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.7.0, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 13
+   -> BAŞARILI: vector-0.7.3-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.7.3, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 14
+   -> BAŞARILI: vector-0.7.3-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.7.3, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 15
+   -> BAŞARILI: vector-0.7.3-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 15
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.7.3-windows-amd64-pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 16
+   -> BAŞARILI: vector-0.7.3-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 16
+   ! BULUNAMADI: Windows binary (pgvector 0.7.3, pg16)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 17
+   -> BAŞARILI: vector-0.7.3-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 17
+   ! BULUNAMADI: Windows binary (pgvector 0.7.3, pg17)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.3 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.3 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.7.3, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 13
+   -> BAŞARILI: vector-0.7.4-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.7.4, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 14
+   -> BAŞARILI: vector-0.7.4-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.7.4, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 15
+   -> BAŞARILI: vector-0.7.4-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 15
+   ! BULUNAMADI: Windows binary (pgvector 0.7.4, pg15)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 16
+   -> BAŞARILI: vector-0.7.4-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 16
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.7.4-windows-amd64-pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 17
+   -> BAŞARILI: vector-0.7.4-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 17
+   ! BULUNAMADI: Windows binary (pgvector 0.7.4, pg17)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.7.4 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.7.4 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.7.4, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 13
+   -> BAŞARILI: vector-0.8.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 13
+   ! BULUNAMADI: Windows binary (pgvector 0.8.0, pg13)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 14
+   -> BAŞARILI: vector-0.8.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 14
+   ! BULUNAMADI: Windows binary (pgvector 0.8.0, pg14)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 15
+   -> BAŞARILI: vector-0.8.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 15
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.8.0-windows-amd64-pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 16
+   -> BAŞARILI: vector-0.8.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 16
+   -> Release URL kullanıldı
+   -> BAŞARILI: vector-0.8.0-windows-amd64-pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 17
+   -> BAŞARILI: vector-0.8.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 17
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.8.0-windows-amd64-pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.0 -> PG 18
+   ! HATA: Make başarısız (Versiyon uyumsuzluğu olabilir).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.0 -> PG 18
+   ! BULUNAMADI: Windows binary (pgvector 0.8.0, pg18)
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 13
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 13
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg13.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 14
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 14
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg14.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 15
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 15
+   -> Özel URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg15.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 16
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 16
+   -> Release URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 17
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 17
+   -> Blob URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: pgvector 0.8.1 -> PG 18
+   -> BAŞARILI: vector-0.8.1-linux-amd64-pg18.tar.gz
+----------------------------------------------------
+   [WINDOWS] İndiriliyor: pgvector 0.8.1 -> PG 18
+   -> Blob URL kullanıldı
+   -> BAŞARILI: vector-0.8.1-windows-amd64-pg18.zip
+=================================================
+   PGVECTOR FACTORY TAMAMLANDI
+=================================================

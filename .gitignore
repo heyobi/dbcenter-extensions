@@ -1,0 +1,3 @@
+# The binaries are release assets, not repository contents: they are large,
+# immutable, and git is the wrong place for them.
+assets/

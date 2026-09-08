@@ -1,0 +1,269 @@
+BUILD BAŞLADI: Sun Nov 30 18:11:51 UTC 2025
+>>> HEDEF POSTGIS: 3.1.11 3.2.7 3.3.7 3.4.3 3.5.0
+>>> HEDEF POSTGRES: 12 13 14 15 16 17 18
+>>> İndiriliyor: PostGIS v3.1.11
+>>> İndiriliyor: PostGIS v3.2.7
+>>> İndiriliyor: PostGIS v3.3.7
+>>> İndiriliyor: PostGIS v3.4.3
+>>> İndiriliyor: PostGIS v3.5.0
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 12
+   -> BAŞARILI: postgis-3.1.11-linux-amd64-pg12.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 12
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 13
+   -> BAŞARILI: postgis-3.1.11-linux-amd64-pg13.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 13
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 14
+   -> BAŞARILI: postgis-3.1.11-linux-amd64-pg14.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 14
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 15
+   -> BAŞARILI: postgis-3.1.11-linux-amd64-pg15.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 15
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 16
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 16
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 17
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 17
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.1.11 -> PG 18
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 12
+   -> BAŞARILI: postgis-3.2.7-linux-amd64-pg12.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 12
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 13
+   -> BAŞARILI: postgis-3.2.7-linux-amd64-pg13.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 13
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 14
+   -> BAŞARILI: postgis-3.2.7-linux-amd64-pg14.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 14
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 15
+   -> BAŞARILI: postgis-3.2.7-linux-amd64-pg15.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 15
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 16
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 16
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 17
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 17
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.2.7 -> PG 18
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 12
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg12.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 12
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 13
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg13.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 13
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 14
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg14.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 14
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 15
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg15.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 15
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 16
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg16.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 16
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 17
+   -> BAŞARILI: postgis-3.3.7-linux-amd64-pg17.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 17
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.3.7 -> PG 18
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 12
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg12.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 12
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 13
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg13.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 13
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 14
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg14.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 14
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 15
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg15.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 15
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 16
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg16.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 16
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 17
+   -> BAŞARILI: postgis-3.4.3-linux-amd64-pg17.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 17
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.4.3 -> PG 18
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 12
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg12.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 12
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 13
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg13.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 13
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 14
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg14.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 14
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 15
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg15.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 15
+   ! BULUNAMADI: Windows binary yok.
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 16
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg16.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 16
+   -> BAŞARILI: postgis-3.5.0-windows-amd64-pg16.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 17
+   -> BAŞARILI: postgis-3.5.0-linux-amd64-pg17.tar.gz
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 17
+   -> BAŞARILI: postgis-3.5.0-windows-amd64-pg17.zip
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [WINDOWS] Aranıyor: PostGIS 3.5.0 -> PG 18
+   ! BULUNAMADI: Windows binary yok.
+--- BİTTİ ---
+BUILD BAŞLADI: Sun Nov 30 18:50:29 UTC 2025
+   [LINUX] postgis-3.1.11-linux-amd64-pg12.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.1.11-linux-amd64-pg13.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.1.11-linux-amd64-pg14.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.1.11-linux-amd64-pg15.tar.gz zaten mevcut. (Atlanıyor)
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 16
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 17
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.1.11 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [LINUX] postgis-3.2.7-linux-amd64-pg12.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.2.7-linux-amd64-pg13.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.2.7-linux-amd64-pg14.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.2.7-linux-amd64-pg15.tar.gz zaten mevcut. (Atlanıyor)
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 16
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 17
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.2.7 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [LINUX] postgis-3.3.7-linux-amd64-pg12.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.3.7-linux-amd64-pg13.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.3.7-linux-amd64-pg14.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.3.7-linux-amd64-pg15.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.3.7-linux-amd64-pg16.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.3.7-linux-amd64-pg17.tar.gz zaten mevcut. (Atlanıyor)
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.3.7 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [LINUX] postgis-3.4.3-linux-amd64-pg12.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.4.3-linux-amd64-pg13.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.4.3-linux-amd64-pg14.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.4.3-linux-amd64-pg15.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.4.3-linux-amd64-pg16.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.4.3-linux-amd64-pg17.tar.gz zaten mevcut. (Atlanıyor)
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.4.3 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+   [LINUX] postgis-3.5.0-linux-amd64-pg12.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.5.0-linux-amd64-pg13.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.5.0-linux-amd64-pg14.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.5.0-linux-amd64-pg15.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.5.0-linux-amd64-pg16.tar.gz zaten mevcut. (Atlanıyor)
+   [LINUX] postgis-3.5.0-linux-amd64-pg17.tar.gz zaten mevcut. (Atlanıyor)
+----------------------------------------------------
+   [LINUX] Derleniyor: PostGIS 3.5.0 -> PG 18
+   ! HATA: Make başarısız (Kod uyumsuzluğu).
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 12
+   -> Ana dizinde bulundu: postgis-bundle-pg12-3.4.2x64.zip
+   -> PAKETLENDİ: postgis-3.4.2-windows-amd64-pg12.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 13
+   -> Ana dizinde bulundu: postgis-bundle-pg13-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg13.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 14
+   -> Ana dizinde bulundu: postgis-bundle-pg14-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg14.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 15
+   -> Ana dizinde bulundu: postgis-bundle-pg15-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg15.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 16
+   -> Ana dizinde bulundu: postgis-bundle-pg16-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg16.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 17
+   -> Ana dizinde bulundu: postgis-bundle-pg17-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg17.zip
+----------------------------------------------------
+   [WINDOWS] Sunucu Taranıyor: PG 18
+   -> Ana dizinde bulundu: postgis-bundle-pg18-3.6.1x64.zip
+   -> PAKETLENDİ: postgis-3.6.1-windows-amd64-pg18.zip
+=================================================
+   TÜM SÜREÇ TAMAMLANDI
+=================================================

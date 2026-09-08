@@ -1,0 +1,409 @@
+BUILD BAŞLADI: Sun Nov 30 20:17:43 UTC 2025
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 12
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 13
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 14
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 15
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 16
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 17
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.7.0 -> PG 18
+   -> BAŞARILI: pghttp-1.7.0-linux-amd64-pg18.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 12
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 13
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 14
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 15
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 16
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 17
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.3 -> PG 18
+   -> BAŞARILI: pghttp-1.6.3-linux-amd64-pg18.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 12
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 13
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 14
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 15
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 16
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 17
+   -> BAŞARILI: pghttp-1.6.2-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.2 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 12
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 13
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 14
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 15
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 16
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 17
+   -> BAŞARILI: pghttp-1.6.1-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.1 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 12
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 13
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 14
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 15
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 16
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 17
+   -> BAŞARILI: pghttp-1.6.0-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.6.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 12
+   -> BAŞARILI: pghttp-1.5.0-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 13
+   -> BAŞARILI: pghttp-1.5.0-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 14
+   -> BAŞARILI: pghttp-1.5.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 15
+   -> BAŞARILI: pghttp-1.5.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.5.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 12
+   -> BAŞARILI: pghttp-1.4.1-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 13
+   -> BAŞARILI: pghttp-1.4.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 14
+   -> BAŞARILI: pghttp-1.4.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 15
+   -> BAŞARILI: pghttp-1.4.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.1 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 14
+   -> BAŞARILI: pghttp-1.4.0-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 15
+   -> BAŞARILI: pghttp-1.4.0-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.4.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 12
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg12.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 13
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg13.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 14
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg14.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 15
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg15.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 16
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg16.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 17
+   -> BAŞARILI: pghttp-1.3.1-linux-amd64-pg17.tar.gz
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.1 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.3.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.4 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.3 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.2 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.1 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.2.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.2 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.1 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 12
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 13
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 14
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 15
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 16
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 17
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [LINUX] Derleniyor: pg_http 1.1.0 -> PG 18
+   ! HATA: Make başarısız (Uyumsuzluk).
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 12
+   ! HATA: pghttp_version.txt bulunamadı.
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 13
+   -> Tespit Edilen Versiyon: 1.6.1
+   -> PAKETLENDİ: pghttp-1.6.1-windows-amd64-pg13.zip
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 14
+   -> Tespit Edilen Versiyon: 1.6.1
+   -> PAKETLENDİ: pghttp-1.6.1-windows-amd64-pg14.zip
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 15
+   -> Tespit Edilen Versiyon: 1.6.1
+   -> PAKETLENDİ: pghttp-1.6.1-windows-amd64-pg15.zip
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 16
+   -> Tespit Edilen Versiyon: 1.6.1
+   -> PAKETLENDİ: pghttp-1.6.1-windows-amd64-pg16.zip
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 17
+   -> Tespit Edilen Versiyon: 1.6.3
+   -> PAKETLENDİ: pghttp-1.6.3-windows-amd64-pg17.zip
+----------------------------------------------------
+   [WINDOWS] İndiriliyor ve Analiz Ediliyor: PG 18
+   -> Tespit Edilen Versiyon: 1.7.0
+   -> PAKETLENDİ: pghttp-1.7.0-windows-amd64-pg18.zip
+=================================================
+   PG_HTTP FACTORY TAMAMLANDI
+=================================================
