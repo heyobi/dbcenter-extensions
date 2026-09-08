@@ -1,3 +1,9 @@
 # The binaries are release assets, not repository contents: they are large,
 # immutable, and git is the wrong place for them.
 assets/
+
+# Build scratch: the pg_duckdb source tree with its DuckDB submodule, kept on
+# disk so a failed package step does not cost the whole DuckDB compile again,
+# and the packages the builder writes.
+duckdb-src/
+packages-duck/
